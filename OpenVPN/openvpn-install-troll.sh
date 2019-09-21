@@ -62,7 +62,7 @@ if [[ -e /etc/openvpn/server/server.conf ]]; then
 	clear
 		echo "Segun veo, ya tienes instalado OpenVPN..." 
 		echo
-		echo "Asi que, que se antoja ahora?"
+		echo "Asi que, que se te antoja ahora?"
 		echo "   1) Introducir un nuevo usuario" 
 		echo "   2) Eliminar un usuario"
 		echo "   3) Eliminar OpenVPN"
